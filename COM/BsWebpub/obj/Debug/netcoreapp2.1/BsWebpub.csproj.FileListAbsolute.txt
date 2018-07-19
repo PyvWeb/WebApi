@@ -1,0 +1,11 @@
+D:\Project\NetCore\WebApi\BsWebpub\bin\Debug\netcoreapp2.1\BsWebpub.deps.json
+D:\Project\NetCore\WebApi\BsWebpub\bin\Debug\netcoreapp2.1\BsWebpub.dll
+D:\Project\NetCore\WebApi\BsWebpub\bin\Debug\netcoreapp2.1\BsWebpub.pdb
+D:\Project\NetCore\WebApi\BsWebpub\obj\Debug\netcoreapp2.1\BsWebpub.csprojAssemblyReference.cache
+D:\Project\NetCore\WebApi\BsWebpub\obj\Debug\netcoreapp2.1\BsWebpub.csproj.CoreCompileInputs.cache
+D:\Project\NetCore\WebApi\BsWebpub\obj\Debug\netcoreapp2.1\BsWebpub.AssemblyInfoInputs.cache
+D:\Project\NetCore\WebApi\BsWebpub\obj\Debug\netcoreapp2.1\BsWebpub.AssemblyInfo.cs
+D:\Project\NetCore\WebApi\BsWebpub\obj\Debug\netcoreapp2.1\BsWebpub.dll
+D:\Project\NetCore\WebApi\BsWebpub\obj\Debug\netcoreapp2.1\BsWebpub.pdb
+D:\Project\NetCore\WebApi\BsWebpub\bin\Debug\netcoreapp2.1\BsWebpub.runtimeconfig.json
+D:\Project\NetCore\WebApi\BsWebpub\bin\Debug\netcoreapp2.1\BsWebpub.runtimeconfig.dev.json
